@@ -17,3 +17,5 @@ A página deve conter um menu de navegação e as páginas respectivas de:
 Colaboradores:
 
 [Gabriel Silva](https://github.com/gabriel-oxx)
+[Mateus Cruz](https://github.com/mateussc2000)
+[Daniel Sampaio](https://github.com/sampaio95)
