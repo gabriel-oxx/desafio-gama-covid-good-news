@@ -18,10 +18,6 @@ Colaboradores:
 
 [Gabriel Silva](https://github.com/gabriel-oxx)
 [Mateus Cruz](https://github.com/mateussc2000)
-<<<<<<< HEAD
-[Daniel Sampaio](https://github.com/sampaio95)
-=======
 [Daniel Sampaio](https://github.com/sampaio95)
 [Ana Carolina de Mello Farias](https://github.com/ACarolFarias)
 [Thiago Negrini](https://github.com/ThiagoNegrini)
->>>>>>> 89f3b48370ef14ec3b7bfe0d10d5962d1711d891
