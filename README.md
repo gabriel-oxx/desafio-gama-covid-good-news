@@ -19,3 +19,5 @@ Colaboradores:
 [Gabriel Silva](https://github.com/gabriel-oxx)
 [Mateus Cruz](https://github.com/mateussc2000)
 [Daniel Sampaio](https://github.com/sampaio95)
+
+[Thiago Negrini](https://github.com/ThiagoNegrini)
