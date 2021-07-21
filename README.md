@@ -20,3 +20,4 @@ Colaboradores:
 [Mateus Cruz](https://github.com/mateussc2000)
 [Daniel Sampaio](https://github.com/sampaio95)
 [Ana Carolina de Mello Farias](https://github.com/ACarolFarias)
+[Thiago Negrini](https://github.com/ThiagoNegrini)
