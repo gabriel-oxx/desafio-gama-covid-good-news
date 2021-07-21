@@ -1,0 +1,79 @@
+body {
+    background-image: url("images/covid_background.jpg");    
+}
+
+#apresentacao {
+    border: rgb(255, 255, 255) 2px solid;
+    text-align: center;
+    box-shadow: black 5px 5px 8px;
+    border-radius: 30px;
+    margin-bottom: 5px;   
+    padding: 10px;
+}   
+
+.mascaraIcon {
+    width: 100%; 
+}
+
+#namepage{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(245, 245, 104);
+    font-size: 15px;
+
+
+}
+
+ #tituloSite {
+    color: white;
+    font-size: 28px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    \\font-style: oblique;    
+}
+
+#navbar {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    display: flex;
+    justify-content:center;
+    color: seashell;
+}
+
+ul { 
+    display: flex; 
+    justify-content: center;  
+    list-style-type: none;
+    margin-bottom: 0px;
+    font-size: 28px;
+    
+ }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  #noticias {
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+
+  } 
+
+  .textonews {
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  
+
+  
