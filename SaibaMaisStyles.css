@@ -17,14 +17,17 @@ body {
 
 #namepage{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: rgb(99, 252, 244);
+    color: rgb(245, 245, 104);
     font-size: 15px;
 
+
 }
+
  #tituloSite {
     color: white;
     font-size: 28px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    \\font-style: oblique;    
 }
 
 #navbar {
@@ -40,7 +43,8 @@ ul {
     justify-content: center;  
     list-style-type: none;
     margin-bottom: 0px;
-    font-size: 18px;    
+    font-size: 28px;
+    
  }
   
   li {
@@ -68,10 +72,6 @@ ul {
 
   .textonews {
       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  }
-
-  #direitos{
-    color: rgb(102, 101, 101);
   }
 
   
